@@ -1,0 +1,4 @@
+vllm
+pyautogen
+langchain
+langchain-openai
