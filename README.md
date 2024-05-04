@@ -54,11 +54,11 @@ In a third terminal, run the examples:
 ```bash
 $ python langchain_function_call.py 
 [{'args': {'x': 500, 'y': 1234},
-  'id': 'call_FjvUyvXJIpXS7QkhKqarJgqg',
-  'name': 'add'},
+  'id': 'call_wWkVxwjX7dfF8pc5iHm7e9n3',
+  'name': 'add_ints'},
  {'args': {'x': 35},
-  'id': 'call_tqJaK0qBIqV40rbbIS6ifyNe',
-  'name': 'factorial'}]
+  'id': 'call_kKdyaMfH750eJjYxc7u0Lo1c',
+  'name': 'factorial_int'}]
 add_ints: 1734
 factorial_int: 10333147966386144929666651337523200000000
 ```
